@@ -158,8 +158,8 @@
 		<tr>
 
               
-                <td>Broca's Brain: Reflections on the Romance of Science</td>
-                <td>Carl Sagan</td>
+                <td>"Surely You're Joking, Mr. Feynman!" Adventures of a Curious Character</td>
+                <td>Richard P. Feynman</td>
                 <td><a href="img/sh17.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></td>
                 
             </tr>
@@ -238,8 +238,8 @@
            
              <tr>
                  
-                <td>Einstein, Bohr and the Quantum Dilemma</td>
-                <td>Andrew Whitaker</td>
+                <td>The Meaning of Relativity</td>
+                <td>Albert Einstein</td>
                 <td><a href="img/sh26.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></td>
                 
             </tr>
@@ -311,8 +311,8 @@
            
              <tr>
                  
-                <td>God's Equation: Einstein, Relativity, and the Expanding Universe </td>
-                <td>Amir D. Aczel </td>
+                <td>Cosmos </td>
+                <td>Carl Sagan </td>
                 <td><a href="img/sh34.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></td>
                 
             </tr>
@@ -356,8 +356,8 @@
              <tr>
 
  
-                <td>Intelligent Life in the Universe</td>
-                <td>Iosif Shklovsky</td>
+                <td>A Briefer History of Time</td>
+                <td>Leonard Mlodinow</td>
                 <td><a href="img/sh39.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></td>
                 
             </tr>
@@ -419,8 +419,8 @@
              <tr>
 
 
-                <td>Physics, the Human Adventure: From Copernicus to Einstein </td>
-                <td>Gerald Holton</td>
+                <td>The Selfish Gene </td>
+                <td>Richard Dawkins</td>
                 <td><a href="img/sh46.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></td>
                 
             </tr>
