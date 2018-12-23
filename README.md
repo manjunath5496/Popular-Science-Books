@@ -532,7 +532,99 @@
                 Frank A J L James</br>
                 <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh128.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            	
+   
+129. The Early History of Radio: from Faraday to Marconi</br>
+                G.R.M Garratt</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh129.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+130.  The History Of The Laser </br>
+                Mario Bertolotti</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh130.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+131.  The Life and Letters of Faraday</br>
+                Bence Jones</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh131.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+132.  The Strange Life of Nikola Tesla</br>
+                Nikola Tesla</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh132.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+133. Thinking Mathematically</br>
+                 John Mason</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh133.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+134.  The Roots of Endurance: Invincible Perseverance in the Lives of John Newton, Charles Simeon, and William Wilberforce</br>
+                 John Piper</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh134.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+135. Thomas Edison: The Wizard Inventor</br>
+                Haydn Middleton</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh135.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+136.  Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science</br>
+                David Lindley</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh136.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+137.  What about Darwin?</br>
+                Thomas F. Click</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh137.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+138.  The World's Most Famous Math Problem  </br>
+                Marilyn vos Savant</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh138.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+139. Leonardo, Galilei, Pascal. Die Anf&#228;nge der neuzeitlichen Naturwissenschaften. </br>
+                Alexandre Koyre </br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh139.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+140.  Leonardo da Vinci: Artist, Inventor, and Renaissance Man</br>
+                Rachel A. Koestler-Grack</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh140.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+141.  Methods in Molecular Biology TM VOLUME 197 Mitochondrial DNA Methods and Protocols</br>
+                William C. Copeland</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh141.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+142.  DNA: The Secret of Life</br>
+                 James Watson</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh142.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+143.  Darwin's Dangerous Idea</br>
+                Daniel C. Dennett </br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh143.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+144.  Understanding DNA: The Molecule and How it Works</br>
+                Chris R. Calladine </br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh144.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+145. On The Origin of Species</br>
+               Charles Darwin</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh145.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+146.  The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators </br>
+                Jeff Dyer</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh146.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+147.  The Cosmic Serpent</br>
+                Jeremy Narby</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh147.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+148.  The Mathematical Principles of Natural Philosophy</br>
+                	Sir Isaac Newton</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh148.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+149.  Biology and Ideology from Descartes to Dawkins</br>
+                 Denis Alexander</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh149.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+150.  The Cosmic Explosion </br>
+                Jayant V. Narlikar</br>
+                <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh150.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+                    	
 				
 			
 			
