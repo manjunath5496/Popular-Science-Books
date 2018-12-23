@@ -341,147 +341,67 @@
                 Alan Axelrod</br>
                 <a href="img/sh80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-
-			
-		
-
-              
-                Encyclopedia of the Scientific Revolution: From Copernicus to Newton</br>
+81. Encyclopedia of the Scientific Revolution: From Copernicus to Newton</br>
                 Wilbur Applebaum</br>
                 <a href="img/sh81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-                 
-                Epistemology and Probability </br>
+82.  Epistemology and Probability </br>
                 Arkady Plotnitsky</br>
                 <a href="img/sh82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-               
-                 Essential Mathematics with Applications</br>
+83.  Essential Mathematics with Applications</br>
                 Joanne S. Lockwood</br>
                 <a href="img/sh83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
- 
-
-                Fermat's Last Theorem for Amateurs</br>
+84.  Fermat's Last Theorem for Amateurs</br>
                 Paulo Ribenboim</br>
                 <a href="img/sh84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-               
-
-            
-
- 
-                Feynman-Kac-Type Theorems and Gibbs Measures on Path Space</br>
+85.  Feynman-Kac-Type Theorems and Gibbs Measures on Path Space</br>
                 Volker Betz</br>
                 <a href="img/sh85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
-
-                Feynman Lectures on Computation </br>
+86.  Feynman Lectures on Computation </br>
                 Richard Feynman</br>
                 <a href="img/sh86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Feynman Lectures On Gravitation</br>
+87.  Feynman Lectures On Gravitation</br>
                 Richard Feynman</br>
                 <a href="img/sh87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Feynman's Thesis: A New Approach to Quantum Theory</br>
+88.  Feynman's Thesis: A New Approach to Quantum Theory</br>
                 Laurie M. Brown</br>
                 <a href="img/sh88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-
-
-			
-
-              
-                From Edison to Enron: The Business of Power and What It Means for the Future of Electricity </br>
+89.  From Edison to Enron: The Business of Power and What It Means for the Future of Electricity </br>
                 Richard Munson</br>
                 <a href="img/sh89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-                 
-                From Edison to IPod: Protect Your Ideas and Make Money</br>
+90.  From Edison to IPod: Protect Your Ideas and Make Money</br>
                 Frederick Mostert</br>
                 <a href="img/sh90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-               
-                Galileo to Gell-Mann: The Wonder That Inspired the Greatest Scientists of All Time</br>
+91.  Galileo to Gell-Mann: The Wonder That Inspired the Greatest Scientists of All Time</br>
                 Marco Bersanelli</br>
                 <a href="img/sh91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
- 
-
-                Frozen Evolution: Or, that's not the way it is, Mr. Darwin</br>
+92.  Frozen Evolution: Or, that's not the way it is, Mr. Darwin</br>
                 Jaroslav Flegr </br>
                 <a href="img/sh92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-               
-
-            
-
- 
-                Galileo in 90 Minutes</br>
+93.   Galileo in 90 Minutes</br>
                 Blish James</br>
                 <a href="img/sh93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
-
-                 IR and Raman Spectroscopy</br>
+94.  IR and Raman Spectroscopy</br>
                 Siegfried Wartewig</br>
                 <a href="img/sh94.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Isaac Newton And the Scientific Revolution</br>
+95.  Isaac Newton And the Scientific Revolution</br>
                 Gale E. Christianson</br>
                 <a href="img/sh95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Johannes Kepler and the New Astronomy</br>
+96.  Johannes Kepler and the New Astronomy</br>
                 James R. Voelkel</br>
                 <a href="img/sh96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
