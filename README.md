@@ -606,8 +606,8 @@
                 Jeff Dyer</br>
                 <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh146.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-147.  The Cosmic Serpent</br>
-                Jeremy Narby</br>
+147.  Fundamentals of Clinical Trials</br>
+                Lawrence M. Friedman</br>
                 <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh147.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 148.  The Mathematical Principles of Natural Philosophy</br>
