@@ -278,8 +278,8 @@
                 <a href="img/sh65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
-66.  A History of Astronomy from Thales to Kepler </br>
-                J.L.E. Dreyer</br>
+66.  Parallel worlds: A Journey through Creation, Higher dimensions, and the Future of the Cosmos </br>
+                Michio Kaku</br>
                 <a href="img/sh66.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
 67.  Before the Nickelodeon</br>
@@ -287,120 +287,57 @@
                 <a href="img/sh67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
-           
-             
- 
-
-                Brain Busters</br>
+68. Brain Busters</br>
                 Philip J. Carter, Kenneth A. Russel</br>
                 <a href="img/sh68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
-               
-
-            
-
- 
-                Brain Child</br>
+69.  Brain Child</br>
                  Saul John</br>
                 <a href="img/sh69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
-           
-             
-
-
-                Brain Development</br>
+70. Brain Development</br>
                 Eric H. Chudler</br>
                 <a href="img/sh70.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Brain Disorders</br>
+ 71. Brain Disorders</br>
                 Bryan C. Hains</br>
                 <a href="img/sh71.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Brain Gender</br>
+72.  Brain Gender</br>
                 Melissa Nines</br>
                 <a href="img/sh72.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-
-
-			
-
-              
-                Brain Tumor Immunotherapy</br>
+73.  Brain Tumor Immunotherapy</br>
                 Linda M. Liau</br>
                 <a href="img/sh73.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-                 
-                The Calculus Wars: Newton, Leibniz, and the Greatest Mathematical Clash of All Time  </br>
+74. The Calculus Wars: Newton, Leibniz, and the Greatest Mathematical Clash of All Time  </br>
                 Jason Socrates Bardi</br>
                 <a href="img/sh74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-               
-                Condensed intro to Tesla transformers</br>
-                Eric Dollard</br>
+75. Ideas and Opinions</br>
+                	Albert Einstein</br>
                 <a href="img/sh75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
- 
-
-                Darwin and the Nature of Species</br>
+76. Darwin and the Nature of Species</br>
                 David N. Stamos</br>
                 <a href="img/sh76.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-               
-
-            
-
- 
-                Darwin, God and the Meaning of Life</br>
+77. Darwin, God and the Meaning of Life</br>
                 Steve Stewart-Williams</br>
                 <a href="img/sh77.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
-
-                Darwin on Humus and the Earthworm: The Formation of Vegetable Mould through the Action of Worms with Observations on Their Habits</br>
-                Charles Darwin</br>
+78. Moonwalking with Einstein</br>
+                Joshua Foer</br>
                 <a href="img/sh78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Darwin's Plots</br>
+79. Darwin's Plots</br>
                 Gillian Beer</br>
                 <a href="img/sh79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
-            
-           
-             
-
- 
-                Edison on Innovation</br>
+80.  Edison on Innovation</br>
                 Alan Axelrod</br>
                 <a href="img/sh80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
@@ -608,8 +545,8 @@
              
 
  
-                The Fabric of the Cosmos: Space, Time, and the Texture of Reality</br>
-                Brian Greene</br>
+                A Brief History of Time</br>
+                Stephen Hawking</br>
                 <a href="img/sh103.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
@@ -617,8 +554,8 @@
              
 
  
-                The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics</br>
-                Leonard Susskind</br>
+                Black Holes and Baby Universes and Other Essays</br>
+                Stephen Hawking</br>
                 <a href="img/sh104.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
@@ -643,8 +580,8 @@
            
              
                
-                The God Particle</br>
-                 Leon M. Lederman</br>
+                Physics of the Future</br>
+                 Michio Kaku</br>
                 <a href="img/sh107.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
@@ -752,8 +689,8 @@
              
 
  
-                Niels Bohr - Collected Works (Volume 9 - Nuclear Physics 1929-1952)</br>
-                Erik R&#252;dinger</br>
+                Hyperspace: A Scientific Odyssey Through Parallel Universes, Time Warps, and the Tenth Dimension</br>
+                Michio Kaku</br>
                 <a href="img/sh119.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             
