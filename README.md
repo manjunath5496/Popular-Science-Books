@@ -273,7 +273,584 @@
                 <a href="https://github.com/manjunath5496/Popular-Science-Books/blob/master/sh64.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
                 
             	
+65. Advances in Brain Imaging</br>
+                John M. Morihisa</br>
+                <a href="img/sh65.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+66.  A History of Astronomy from Thales to Kepler </br>
+                J.L.E. Dreyer</br>
+                <a href="img/sh66.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+67.  Before the Nickelodeon</br>
+                Charles Musser</br>
+                <a href="img/sh67.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                Brain Busters</br>
+                Philip J. Carter, Kenneth A. Russel</br>
+                <a href="img/sh68.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                Brain Child</br>
+                 Saul John</br>
+                <a href="img/sh69.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                Brain Development</br>
+                Eric H. Chudler</br>
+                <a href="img/sh70.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Brain Disorders</br>
+                Bryan C. Hains</br>
+                <a href="img/sh71.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Brain Gender</br>
+                Melissa Nines</br>
+                <a href="img/sh72.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+
+
+			
+
+              
+                Brain Tumor Immunotherapy</br>
+                Linda M. Liau</br>
+                <a href="img/sh73.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                The Calculus Wars: Newton, Leibniz, and the Greatest Mathematical Clash of All Time  </br>
+                Jason Socrates Bardi</br>
+                <a href="img/sh74.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                Condensed intro to Tesla transformers</br>
+                Eric Dollard</br>
+                <a href="img/sh75.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                Darwin and the Nature of Species</br>
+                David N. Stamos</br>
+                <a href="img/sh76.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                Darwin, God and the Meaning of Life</br>
+                Steve Stewart-Williams</br>
+                <a href="img/sh77.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                Darwin on Humus and the Earthworm: The Formation of Vegetable Mould through the Action of Worms with Observations on Their Habits</br>
+                Charles Darwin</br>
+                <a href="img/sh78.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Darwin's Plots</br>
+                Gillian Beer</br>
+                <a href="img/sh79.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Edison on Innovation</br>
+                Alan Axelrod</br>
+                <a href="img/sh80.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+
+			
+		
+
+              
+                Encyclopedia of the Scientific Revolution: From Copernicus to Newton</br>
+                Wilbur Applebaum</br>
+                <a href="img/sh81.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                Epistemology and Probability </br>
+                Arkady Plotnitsky</br>
+                <a href="img/sh82.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                 Essential Mathematics with Applications</br>
+                Joanne S. Lockwood</br>
+                <a href="img/sh83.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                Fermat's Last Theorem for Amateurs</br>
+                Paulo Ribenboim</br>
+                <a href="img/sh84.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                Feynman-Kac-Type Theorems and Gibbs Measures on Path Space</br>
+                Volker Betz</br>
+                <a href="img/sh85.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                Feynman Lectures on Computation </br>
+                Richard Feynman</br>
+                <a href="img/sh86.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Feynman Lectures On Gravitation</br>
+                Richard Feynman</br>
+                <a href="img/sh87.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Feynman's Thesis: A New Approach to Quantum Theory</br>
+                Laurie M. Brown</br>
+                <a href="img/sh88.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+
+
+			
+
+              
+                From Edison to Enron: The Business of Power and What It Means for the Future of Electricity </br>
+                Richard Munson</br>
+                <a href="img/sh89.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                From Edison to IPod: Protect Your Ideas and Make Money</br>
+                Frederick Mostert</br>
+                <a href="img/sh90.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                Galileo to Gell-Mann: The Wonder That Inspired the Greatest Scientists of All Time</br>
+                Marco Bersanelli</br>
+                <a href="img/sh91.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                Frozen Evolution: Or, that's not the way it is, Mr. Darwin</br>
+                Jaroslav Flegr </br>
+                <a href="img/sh92.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                Galileo in 90 Minutes</br>
+                Blish James</br>
+                <a href="img/sh93.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                 IR and Raman Spectroscopy</br>
+                Siegfried Wartewig</br>
+                <a href="img/sh94.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Isaac Newton And the Scientific Revolution</br>
+                Gale E. Christianson</br>
+                <a href="img/sh95.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Johannes Kepler and the New Astronomy</br>
+                James R. Voelkel</br>
+                <a href="img/sh96.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            	
+			
+			
+			
+		
+
+              
+                Lectures on QED and QCD: practical calculation and renormalization of one- and multi-loop Feynman diagrams</br>
+                Andrey Grozin</br>
+                <a href="img/sh97.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                Literature After Darwin: Human Beasts in Western Fiction, 1859–1939 </br>
+                Virginia Richter </br>
+                <a href="img/sh98.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                Mad Like Tesla: Underdog Inventors and Their Relentless Pursuit of Clean Energy</br>
+                Tyler Hamilton</br>
+                <a href="img/sh99.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                Michael Faraday, Father of Electronics</br>
+                Charles Ludwig</br>
+                <a href="img/sh100.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                Michael Faraday Physics and Faith</br>
+                Colin A. Russell</br>
+                <a href="img/sh101.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                Newton and the Counterfeiter: The Unknown Detective Career of the World's Greatest Scientist</br>
+                Thomas Levenson</br>
+                <a href="img/sh102.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                The Fabric of the Cosmos: Space, Time, and the Texture of Reality</br>
+                Brian Greene</br>
+                <a href="img/sh103.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics</br>
+                Leonard Susskind</br>
+                <a href="img/sh104.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+
+
+			
+
+              
+                The Collected Papers of Albert Einstein (Vol 11)</br>
+                Diana Kormos Buchwald</br>
+                <a href="img/sh105.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                The Emperor's New Drugs: Exploding the Antidepressant Myth </br>
+                Irving Kirsch </br>
+                <a href="img/sh106.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                The God Particle</br>
+                 Leon M. Lederman</br>
+                <a href="img/sh107.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                The Possibilities Mind: Conversations With God, Einstein, and Others</br>
+                Bernard G. Berenson</br>
+                <a href="img/sh108.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                The Restless Universe: Understanding X-ray Astronomy in the Age of Chandra and Newton</br>
+                Eric M. Schlegel</br>
+                <a href="img/sh109.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                The Universe of General Relativity </br>
+                Jean Eisenstaedt</br>
+                <a href="img/sh110.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain</br>
+                Steven D. Levitt</br>
+                <a href="img/sh111.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Origins: Fourteen Billion Years of Cosmic Evolution</br>
+                Neil Degrasse Tyson</br>
+                <a href="img/sh112.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+
+			
+		
+
+              
+                Intelligent Life in the Universe: Principles and Requirements Behind Its Emergence</br>
+                 Peter Ulmschneider</br>
+                <a href="img/sh113.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                Unreliable:  The Science and Logic of Bill Nye </br>
+                 Heath Henning </br>
+                <a href="img/sh114.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                Lectures on Quantum Mechanics</br>
+                Steven Weinberg</br>
+                <a href="img/sh115.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                What the Dog Saw: And Other Adventures</br>
+                Malcolm Gladwell </br>
+                <a href="img/sh116.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                What Einstein Told His Barber: More Scientific Answers to Everyday Questions</br>
+                Robert Wolke </br>
+                <a href="img/sh117.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                What If?: Serious Scientific Answers to Absurd Hypothetical Questions</br>
+                Randall Munroe</br>
+                <a href="img/sh118.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Niels Bohr - Collected Works (Volume 9 - Nuclear Physics 1929-1952)</br>
+                Erik R&#252;dinger</br>
+                <a href="img/sh119.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                Nonlinear Fokker–Planck Equations</br>
+                Till Daniel Frank</br>
+                <a href="img/sh120.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+
+
+			
+
+              
+                Performance and Evolution in the Age of Darwin </br>
+                Jane Goodall</br>
+                <a href="img/sh121.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+                 
+                Pharmaceutical Applications of Raman Spectroscopy</br>
+                Slobodan Sasic, Sean Ekins</br>
+                <a href="img/sh122.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+               
+                Principles of Surface-Enhanced Raman Spectroscopy: And Related Plasmonic Effects</br>
+                Eric Le Ru</br>
+                <a href="img/sh123.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+ 
+
+                Quantum Leap: From Dirac and Feynman, Across the Universe, to Human Body and Mind</br>
+                Vladimir G Ivancevic </br>
+                <a href="img/sh124.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+               
+
+            
+
+ 
+                Retrying Galileo (1633–1992) </br>
+                Maurice A. Finocchiaro</br>
+                <a href="img/sh125.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+
+                 Tesla: Man Out of Time</br>
+                Margaret Cheney</br>
+                <a href="img/sh126.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World</br>
+                Edward Dolnick</br>
+                <a href="img/sh127.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            
+           
+             
+
+ 
+                The Correspondence of Michael Faraday (Vol - 5) </br>
+                Frank A J L James</br>
+                <a href="img/sh128.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a></br>
+                
+            	
 				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+						
 			
 			
 		
